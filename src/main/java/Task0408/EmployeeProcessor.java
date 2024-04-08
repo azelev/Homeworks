@@ -1,2 +1,4 @@
-package Task0408;public class EmployeeProcessor {
+package Task0408;
+
+public interface EmployeeProcessor {
 }
