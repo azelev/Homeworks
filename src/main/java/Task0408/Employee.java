@@ -1,15 +1,5 @@
 package Task0408;
 
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.Setter;
-import lombok.ToString;
-
-@Getter
-@Setter
-@AllArgsConstructor
-@ToString
-
 public class Employee {
 
     private String name;
